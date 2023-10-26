@@ -14,3 +14,9 @@ body {
 }
 
 /* add styles here */
+.background {
+   background-image: url(/images/florence.jpg);
+   background-size: cover;
+   width: 100%;
+   min-height: 500px;
+}
